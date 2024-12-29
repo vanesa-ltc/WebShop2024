@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {}
+    "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {
+    "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
         "projectName": "WebShopApp.Infrastructure",
-        "projectPath": "C:\\Users\\User\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,10 @@
               "version": "[8.0.6, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
               "version": "[8.0.6, )"
             },
