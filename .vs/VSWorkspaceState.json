@@ -3,8 +3,10 @@
     "",
     "\\WebShopApp",
     "\\WebShopApp\\WebShopApp",
-    "\\WebShopApp\\WebShopApp.Infrastructure"
+    "\\WebShopApp\\WebShopApp.Infrastructure",
+    "\\WebShopApp\\WebShopApp.Infrastructure\\Data",
+    "\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Infrastructure"
   ],
-  "SelectedNode": "\\WebShopApp\\WebShopApp.Infrastructure",
+  "SelectedNode": "\\WebShopApp\\WebShopApp.sln",
   "PreviewInSolutionExplorer": false
 }
