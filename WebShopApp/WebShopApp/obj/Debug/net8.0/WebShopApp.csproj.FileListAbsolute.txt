@@ -595,3 +595,5 @@ C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\WebShop2024\W
 C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\WebShop2024\WebShopApp\WebShopApp\bin\Debug\net8.0\WebShopApp.Core.pdb
 C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\WebShop2024\WebShopApp\WebShopApp\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\WebShop2024\WebShopApp\WebShopApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\WebShop2024\WebShopApp\WebShopApp\bin\Debug\net8.0\Views\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\WebShop2024\WebShopApp\WebShopApp\bin\Debug\net8.0\Views\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json

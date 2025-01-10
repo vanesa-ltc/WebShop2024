@@ -9,6 +9,7 @@ namespace WebShopApp.Infrastructure.Data.Entities
 {
     public class Brand
     {
+        [Key]
         public int Id { get; set; }
         [Required]
         [MaxLength(30)]

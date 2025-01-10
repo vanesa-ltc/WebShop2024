@@ -5,7 +5,12 @@
     "\\WebShopApp\\WebShopApp",
     "\\WebShopApp\\WebShopApp.Infrastructure",
     "\\WebShopApp\\WebShopApp.Infrastructure\\Data",
-    "\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Infrastructure"
+    "\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Infrastructure",
+    "\\WebShopApp\\WebShopApp\\Areas",
+    "\\WebShopApp\\WebShopApp\\Areas\\Identity",
+    "\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages",
+    "\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account",
+    "\\WebShopApp\\WebShopApp\\Controllers"
   ],
   "SelectedNode": "\\WebShopApp\\WebShopApp.sln",
   "PreviewInSolutionExplorer": false
