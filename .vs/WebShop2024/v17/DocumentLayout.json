@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
               "RelativeToolTip": "WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAALQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T06:20:10.272Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "WebShopApp\\WebShopApp.Core\\Contracts\\IProductService.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T07:08:53.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T07:08:53.668Z"
             },
             {
               "$type": "Document",

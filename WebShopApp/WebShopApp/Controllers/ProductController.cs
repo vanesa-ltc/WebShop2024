@@ -36,6 +36,7 @@ namespace WebShopApp.Controllers
                 BrandId = product.BrandId,
                 BrandName = product.Brand.BrandName,
                 CategoryId = product.CategoryId,
+                CategoryName = product.Category.CategoryName,
                 Picture = product.Picture,
                 Quantity = product.Quantity,
                 Price = product.Price,
