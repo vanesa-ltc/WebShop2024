@@ -3,16 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\models\\product\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\product\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\order\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\order\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp.core\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp.core\\contracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\contracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\models\\order\\ordercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\order\\ordercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\models\\order\\orderindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\order\\orderindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\order\\denied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\order\\denied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp.core\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\product\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\models\\product\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\product\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\models\\category\\categorypairvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,16 +127,8 @@
       "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\brand\\brandpairvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82158E58-7FE4-4732-A784-B7A911269BF8}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp.core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp.core\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BFC874D-5D48-4420-B0D2-98BF8FE3F35A}|WebShopApp.Core\\WebShopApp.Core.csproj|c:\\users\\user\\appdata\\roaming\\.minecraft\\versions\\ghost town\\saves\\webshop2024\\webshopapp\\webshopapp.core\\services\\brandservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,7 +181,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -149,20 +189,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "WebShopApp\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswD0AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-09T18:41:14.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "ProductIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductIndexVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductIndexVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductIndexVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductIndexVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:25:31.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebShopApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAtwCYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:58:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\OrderService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:00:36.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Order\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Order\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Order\\MyOrders.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Order\\MyOrders.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T16:48:21.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Contracts\\IOrderService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Contracts\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Contracts\\IOrderService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Contracts\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:00:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAawDIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T16:56:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Order\\OrderCreateVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Order\\OrderCreateVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Order\\OrderCreateVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Order\\OrderCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:28:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Order\\OrderIndexVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Order\\OrderIndexVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Order\\OrderIndexVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Order\\OrderIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:59:49.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebShopApp\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:56:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCEAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T16:31:30.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Denied.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Order\\Denied.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Order\\Denied.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Order\\Denied.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Order\\Denied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T17:47:23.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Edit.cshtml",
@@ -170,276 +353,23 @@
               "RelativeToolTip": "WebShopApp\\Views\\Product\\Edit.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAQwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T18:59:36.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "WebShopApp\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T18:05:41.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Success.cshtml",
-              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Success.cshtml",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Success.cshtml",
-              "RelativeToolTip": "WebShopApp\\Views\\Product\\Success.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T06:52:09.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "WebShopApp\\Views\\Product\\Details.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAADEAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T19:00:02.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "WebShopApp\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AQIAADQAAAAAAAAAAAAuwEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T20:24:51.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductIndexVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductIndexVM.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductIndexVM.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductIndexVM.cs",
-              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductIndexVM.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAowAIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T18:25:31.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebShopApp\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAIAwwC8AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:58:11.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryPairVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Category\\CategoryPairVM.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Models\\Category\\CategoryPairVM.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Category\\CategoryPairVM.cs",
-              "RelativeToolTip": "WebShopApp\\Models\\Category\\CategoryPairVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:47:04.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductDeleteVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDeleteVM.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductDeleteVM.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDeleteVM.cs",
-              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductDeleteVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T20:27:01.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductDetailsVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
-              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T21:00:57.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T18:59:36.432Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Contracts\\IProductService.cs",
-              "RelativeDocumentMoniker": "WebShopApp.Core\\Contracts\\IProductService.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Contracts\\IProductService.cs",
-              "RelativeToolTip": "WebShopApp.Core\\Contracts\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T07:26:46.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductEditVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductEditVM.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductEditVM.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductEditVM.cs",
-              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductEditVM.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T20:32:25.137Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T17:45:26.755Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "ProductCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductCreateVM.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductCreateVM.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductCreateVM.cs",
-              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T12:31:32.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\ProductService.cs",
-              "RelativeToolTip": "WebShopApp.Core\\Services\\ProductService.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAwwFYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T07:28:13.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T14:38:22.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250109181139_second.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20250109181139_second.cs",
-              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Migrations\\20250109181139_second.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20250109181139_second.cs",
-              "RelativeToolTip": "WebShopApp.Infrastructure\\Migrations\\20250109181139_second.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T18:11:39.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Entities\\Product.cs",
-              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Entities\\Product.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBQAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T14:28:40.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BrandPairVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Brand\\BrandPairVM.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Models\\Brand\\BrandPairVM.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Brand\\BrandPairVM.cs",
-              "RelativeToolTip": "WebShopApp\\Models\\Brand\\BrandPairVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:45:56.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Program.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Program.cs",
-              "RelativeToolTip": "WebShopApp\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCUAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T20:56:37.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\CategoryService.cs",
-              "RelativeToolTip": "WebShopApp.Core\\Services\\CategoryService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwB0AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T20:23:30.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BrandServise.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\BrandServise.cs",
-              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\BrandServise.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\BrandServise.cs",
-              "RelativeToolTip": "WebShopApp.Core\\Services\\BrandServise.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T20:23:38.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAADwv0AAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T15:07:56.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Contracts\\ICategoryService.cs",
               "RelativeDocumentMoniker": "WebShopApp.Core\\Contracts\\ICategoryService.cs",
@@ -451,7 +381,235 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeToolTip": "WebShopApp\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:56:37.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T18:05:41.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Success.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Success.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Success.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T06:52:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:00:02.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T20:24:51.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryPairVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Category\\CategoryPairVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Category\\CategoryPairVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Category\\CategoryPairVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Category\\CategoryPairVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:47:04.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDeleteVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDeleteVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductDeleteVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDeleteVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductDeleteVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:27:01.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:00:57.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Contracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Contracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Contracts\\IProductService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Contracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:26:46.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductEditVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductEditVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductEditVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductEditVM.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:32:25.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Product\\ProductCreateVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:31:32.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\ProductService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Services\\ProductService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwFYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:28:13.637Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:38:22.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250109181139_second.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20250109181139_second.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Migrations\\20250109181139_second.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20250109181139_second.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Migrations\\20250109181139_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:11:39.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Entities\\Product.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:28:40.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BrandPairVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Brand\\BrandPairVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Brand\\BrandPairVM.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Models\\Brand\\BrandPairVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Brand\\BrandPairVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:45:56.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\CategoryService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:23:30.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BrandServise.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\BrandServise.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\BrandServise.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Core\\Services\\BrandServise.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Services\\BrandServise.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:23:38.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv0AAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:07:56.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
@@ -463,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -475,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "20241227155817_UpdateDb.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20241227155817_UpdateDb.cs",
               "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Migrations\\20241227155817_UpdateDb.cs",
@@ -487,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -499,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Entities\\Category.cs",
@@ -511,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "WebShopApp.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
               "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
@@ -519,11 +677,12 @@
               "RelativeToolTip": "WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-27T14:13:18.05Z"
+              "WhenOpened": "2024-12-27T14:13:18.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp\\appsettings.json",
               "RelativeDocumentMoniker": "WebShopApp\\appsettings.json",
@@ -535,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "20241227143650_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20241227143650_InitialMigration.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20241227143650_InitialMigration.cs",
@@ -546,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\versions\\Ghost Town\\saves\\WebShop2024\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Entities\\Order.cs",

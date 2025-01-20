@@ -36,6 +36,7 @@ namespace WebShopApp
             builder.Services.AddTransient<ICategoryService, CategoryService>();
             builder.Services.AddTransient<IBrandService, BrandServise>();
             builder.Services.AddTransient<IProductService, ProductService>();
+            builder.Services.AddTransient<IOrderService, OrderService>();
 
             var app = builder.Build();
             app.PrepareDatabase();
