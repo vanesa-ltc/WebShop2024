@@ -53,7 +53,7 @@
         let q = document.getElementsByName('Quantity')[0].value;
         let p = document.getElementsByName('Price')[0].value;
         let d = document.getElementsByName('Discount')[0].value;
-        let sum = Number(q) * (Number(p) - Number(p) * Number(d) / 100);
+        let sum = Number.parseInt(q) * (Number.parseFloat(p) - Number.parseFloat(p) * Number.parseFloat(d) / 100);
         document.getElementsByName('TotalPrice')[0].value = sum.toFixed(2)
     }
     document.getElementById('Quantity').max = @Model.QuantityInStock;
